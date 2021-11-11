@@ -1,1 +1,3 @@
-This repository are some projects that I have worked on
+# Read Me
+
+This repository holds quick projects that I have worked on
