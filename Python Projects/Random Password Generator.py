@@ -21,7 +21,7 @@ new_password = ''.join(str(n) for n in random_password)
 
 print('Here is your random password: ' + new_password)
 
-------------------------------------------------------------------------------------
+#------------------------------------------------------------------------------------
 # This code just completely gives a random password
 import random
 
