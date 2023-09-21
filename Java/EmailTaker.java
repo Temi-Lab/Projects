@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 /*
- * Takes Student Emails and Stores it in a Array
+ * Takes Student Emails and Stores it in a txt file
  */
 
 class EmailTaker{
